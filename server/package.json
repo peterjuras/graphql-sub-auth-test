@@ -1,0 +1,11 @@
+{
+  "name": "graphql-sub-auth-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.4.0",
+    "graphql": "^14.1.1"
+  }
+}
